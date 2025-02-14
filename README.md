@@ -1,2 +1,2 @@
-# MSUDA-challenge-data-visualization
-MSU Data Analytics data-visualization-challenge
+# MSUDA-challenge-matplotlib
+MSU Data Analytics matplotlib-challenge
